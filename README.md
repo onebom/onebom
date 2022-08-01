@@ -1,5 +1,5 @@
 # Welcome to My Page👋
-Hi, I’m @onebom, AI Engineer from Korea🇰🇷 but also full stack Dreamer✨
+Hi, I’m @onebom, AI Engineer from Korea🇰🇷 but also full stack Dreamer✨.  
 Please watch my growth:)
 
 ## 🛠Tech Stack🛠
