@@ -3,6 +3,8 @@ Hi, I’m @onebom, AI Engineer from Korea🇰🇷 but also full stack Dreamer✨
 Please watch my growth:)
 
 ## 🛠Tech Stack🛠
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+
 
 ## About ME🌱
 - blog:
