@@ -44,46 +44,46 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>Sollang Floor Plane Reconstruction algorithm(OVMap)</b></a></td>
+      <td><a href="https://github.com/onebom/Sollang_OVMap"><b>Sollang Floor Plane Reconstruction algorithm(OVMap)</b></a></td>
       <td>2022.07~</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/onebom/Sollang_OVMap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/onebom/Sollang_OVMap?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href=""><b>Fluid monitoring System</b></a></td>
       <td>2021.10~2022.08</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/onebom/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/onebom/?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Sollang React Page</b></a></td>
+      <td><a href="https://github.com/onebom/Sollang_React_WebPage"><b>Sollang React Page</b></a></td>
       <td>2022.06~</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/onebom/Sollang_React_WebPage?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/onebom/Sollang_React_WebPage?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Classification Malocclusion Using Pesudo Multi-Label</b></a></td>
+      <td><a href="https://github.com/dsaint31x/DentisAI/tree/master/Malocclusion_"><b>Classification Malocclusion Using Pesudo Multi-Label</b></a></td>
       <td>2021.02~2022.02</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dsaint31x/DentisAI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dsaint31x/DentisAI?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Attention 3rd Molar to canal with CBAM</b></a></td>
+      <td><a href="https://github.com/onebom/Dental-3rd_molar_to_canal"><b>Attention 3rd Molar to canal with CBAM</b></a></td>
       <td>2021.02~2021.11</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/onebom/Dental-3rd_molar_to_canal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/onebom/Dental-3rd_molar_to_canal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Segmentation Landmark in Cephalogram with Unet</b></a></td>
+      <td><a href="https://github.com/dsaint31x/DentisAI/tree/master/Cephalogram_"><b>Segmentation Landmark in Cephalogram with Unet</b></a></td>
       <td>2020.11~2021.06</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dsaint31x/DentisAI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dsaint31x/DentisAI?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Classification Despnea unsing EEG</b></a></td>
+      <td><a href="https://github.com/onebom/ML_EEG"><b>Classification Despnea unsing EEG</b></a></td>
       <td>2020.02~2020.10</td>
-      <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/onebom/ML_EEG?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/onebom/ML_EEG?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
   </tbody>
