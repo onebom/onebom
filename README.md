@@ -74,7 +74,7 @@
       <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href=""><b>Segmentation Landmark in Cephalogram< with Unet></b></a></td>
+      <td><a href=""><b>Segmentation Landmark in Cephalogram with Unet</b></a></td>
       <td>2020.11~2021.06</td>
       <td><img alt="Forks" src="https://?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://?style=flat-square&labelColor=343b41"/></td>
