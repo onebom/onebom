@@ -32,13 +32,6 @@
 
 
 <h3>Open source projects</h3>
-1. EEG
-2. Cephalogram
-3. Malocclusion
-4. 3rd_Molar
-5. sollang
-6. swagsawg
-7. OVMAp
 
 <table>
   <thead align="center">
