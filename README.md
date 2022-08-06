@@ -31,7 +31,7 @@
 </p>
 
 
-<h3>projects</h3>
+<h3>Projects Log</h3>
 
 <table>
   <thead align="center">
