@@ -31,7 +31,7 @@
 </p>
 
 
-<h3>Open source projects</h3>
+<h3>projects</h3>
 
 <table>
   <thead align="center">
