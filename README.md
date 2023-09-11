@@ -23,7 +23,7 @@ my primary research goal aims to the development of generalizable deeplearning m
   three-step learning pipeline to classify 3rd Molar and lower tubular nerve contact
 
 ### Project Activities
-- [GenerativeAI]() - private library for generative model including GAN, style-trasfer and Controllable Generation (Pytorch)
+- [GenerativeAI]() - private library for generative model (Pytorch)
 - [NowMeSeeMe]() - Application for emotional monitoring and psychological counseling using avatar (Tensorflow, Unity)
 - [RoomFit]() - Real-time home cam yoga posture correction web service using Mediapipe's BlazePose model (Vue, Flask, nodeJS)
 
