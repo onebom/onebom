@@ -13,7 +13,7 @@ bomsister@gmail.com
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=onebom&theme=onedark">  
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgcwhb)](https://solved.ac/sgcwhb)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/HanbomWoo)
+<!---[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/HanbomWoo)--->
 
 <!---
 onebom/onebom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
