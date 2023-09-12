@@ -13,19 +13,19 @@ my primary research goal aims to the development of generalizable deeplearning m
 - Linear Algebra & Probability for Deep Learning
 
 ### Research Portfolio
-- [DNA 2022]()   
+- [DNA 2022](https://github.com/onebom/DNA)   
   Automatic injection controller Web Service with YoloV4 fluid detection.   
   + 2022 창의혁신 DNA 산학협력 연구 프로젝트 공학혁신상 수상
-- [Deep Learning based Malocclusion classification with distance of molar relationships 2021]()   
+- [Deep Learning based Malocclusion classification with distance of molar relationships 2021](https://github.com/onebom/Malocclusion_RestAPI/tree/main)   
   Classification malocclusion using pseudo multi-label   
   + 2021 춘계 대한의용생체공학회 초록 게재 및 특허 출원
-- [Attention 3rd Molar to canal using CBAM 2021]()   
+- [Attention 3rd Molar to canal using CBAM 2021](https://github.com/onebom/3rd_Molar_to_canal)   
   three-step learning pipeline to classify 3rd Molar and lower tubular nerve contact
 
 ### Project Activities
-- [GenerativeAI]() - private library for generative model (Pytorch)
-- [NowMeSeeMe]() - Application for emotional monitoring and psychological counseling using avatar (Tensorflow, Unity)
-- [RoomFit]() - Real-time home cam yoga posture correction web service using Mediapipe's BlazePose model (Vue, Flask, nodeJS)
+- [GenerativeAI_application](https://github.com/onebom/Deep_Learning_CV_Practice/tree/main/GenerativeAI_application) - private library for generative model (Pytorch)
+- [NowMeSeeMe](https://github.com/onebom/NowMSM_AI) - Application for emotional monitoring and psychological counseling using avatar (Tensorflow, Unity)
+- [RoomFit](https://github.com/onebom/RoomFit_POC) - Real-time home cam yoga posture correction web service using Mediapipe's BlazePose model (Vue, Flask, nodeJS)
 
 ### Vitæ
 - Krafton Jungle (2022.10~2023.3)
