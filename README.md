@@ -25,7 +25,7 @@ my primary research goal aims to the development of generalizable deeplearning m
 ### Project Activities
 - [GenerativeAI_application](https://github.com/onebom/Deep_Learning_CV_Practice/tree/main/GenerativeAI_application) - private library for generative model (Pytorch)
 - [NowMeSeeMe](https://github.com/onebom/NowMSM_AI) - Application for emotional monitoring and psychological counseling using avatar (Tensorflow, Unity)
-- [RoomFit](https://github.com/onebom/RoomFit_POC) - Real-time home cam yoga posture correction web service using Mediapipe's BlazePose model (Vue, Flask, nodeJS)
+- [BiamIO](https://github.com/onebom/BiamIO) - snake game application based DL hand detection (Vue, Flask, nodeJS)
 
 ### Vitæ
 - Krafton Jungle (2022.10~2023.3)
