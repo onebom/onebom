@@ -3,12 +3,12 @@
 bomsister@gmail.com   
 [SNS](https://www.instagram.com/wb_1205) | [Blog](https://onebom.github.io) | [CV](https://drive.google.com/file/d/1kyWUKnB0GHK9AuW-UzmYZ0-grQoKD0Vq/view?usp=sharing) | [Portfolio](https://onebomprofile.super.site) (as of September 11th, 2023)   
 
-hi👋 I'm interested in machine learning, computer vision, and 3D generative model.   
+hi👋 I'm interested in machine learning, computer vision, and deep generative model.   
 my primary research goal aims to the development of generalizable deeplearning models to challenging yet practical scenarios
 
 ### Currently Learning
 - DL for Computer vision(and API like tensorflow, pytorch)
-- Generative Models and Neural Radiance Fields
+- Generative Models(Diffusion) and Gaussian splatting
 - Computer Graphics
 - Linear Algebra & Probability for Deep Learning
 
@@ -28,8 +28,9 @@ my primary research goal aims to the development of generalizable deeplearning m
 - [BiamIO](https://github.com/onebom/BiamIO) - snake game application based DL hand detection (Vue, Flask, nodeJS)
 
 ### Vitæ
+- MIDAS, Researcher (2024.02~)
 - Krafton Jungle (2022.10~2023.3)
-- MMMIL, Resarch scientist (2021.2~2022.5) 
+- MMMIL, Research scientist (2021.2~2022.5) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=onebom&theme=onedark">  
 
